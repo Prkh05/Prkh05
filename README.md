@@ -94,9 +94,7 @@ Helping rural India to connect to morden Banking System by simplifing credit sys
 
 
 ## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prkh05&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Prkh05&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 
 🏆 LeetCode Journey
   
