@@ -95,12 +95,18 @@ Helping rural India to connect to morden Banking System by simplifing credit sys
 
 ## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aranya13&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prkh05&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
 🏆 LeetCode Journey
   
- ![LeetCode Stats](https://leetcard.jacoblin.cool/prakhar05?theme=catppuccinMocha&font=Oxygen%20Mono)
+ <div align="center">
+  <img src="https://leetcard.jacoblin.cool/prakhar05?theme=catppuccinMocha&font=Oxygen%20Mono" alt="LeetCode Stats" />
+</div>
+<div align="center">
+🔥 Grinding DSA problems daily in Java to level up my problem-solving skills!
+</div>
+
 
 
     
