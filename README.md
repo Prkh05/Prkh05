@@ -94,7 +94,8 @@ Helping rural India to connect to morden Banking System by simplifing credit sys
 
 
 ## 📊 GitHub Activity
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Prkh05&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prkh05&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 🏆 LeetCode Journey
   
@@ -104,14 +105,6 @@ Helping rural India to connect to morden Banking System by simplifing credit sys
 <div align="center">
 🔥 Grinding DSA problems daily in Java to level up my problem-solving skills!
 </div>
-
-
-
-    
-  
-
- 🔥 Grinding DSA problems daily in Java to level up my problem-solving skills!
-
 
 ## 📫 Let's Connect!  
 <div align="center">
