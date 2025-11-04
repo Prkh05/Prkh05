@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Aranya Bahuguna
+## 👋 Hi, I'm Prakhar Shukla
 🎓 B.Tech CSE (Core) student at VIT Bhopal (2026) | 💻 Aspiring Full-Stack Developer | 🔐 Cybersecurity Enthusiast
 
 <!--
