@@ -1,6 +1,11 @@
 ## 👋 Hi, I'm Prakhar Shukla
 🎓 B.Tech CSE (Core) student at VIT Bhopal (2026) | 💻 Aspiring Full-Stack Developer | 🔐 Cybersecurity Enthusiast
 
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prkh05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aranya13&layout=compact&theme=dracula" height="150" alt="languages graph" />
+</div>
+
 <!--
 **Prkh05/Prkh05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -52,8 +57,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" />
-
+  
  ## Tools
  <!-- Tools -->
  <p align="center">
@@ -88,13 +92,12 @@ Role-based access control for secure operations
 
 Helping rural India to connect to morden Banking System by simplifing credit system and gamfying hard economic concepts.
 
-📊 GitHub Stats
-## 📊 GitHub Activity
 
+## 📊 GitHub Activity
 <p align="center">
-  <img src="![Prkh05's Stats](https://github-readme-stats.vercel.app/api?username=Prkh05&theme=dracula&show_icons=true&hide_border=true&count_private=true)" />
-  <img src = "![Prkh05's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prkh05&theme=dracula&show_icons=true&hide_border=true&layout=compact)"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aranya13&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
 </p>
+
 🏆 LeetCode Journey
   
   
