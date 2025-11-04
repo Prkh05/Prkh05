@@ -40,6 +40,7 @@ Tech Stack: MERN Stack
 AI-powered customer service chatbot using the MERN stack with intelligent FAQ matching and
 Gemini LLM integration
 
+
 🆘 SOS-Service (Sep 2024 – Feb 2025)
 Tech Stack: MERN | Supabase | ML | AES
 
@@ -50,15 +51,16 @@ Role-based access control for secure operations
 
 
 
+
 💸 AI-Powered Rural Banking App (Oct 2024 – Mar 2025)
 Tech Stack: React Native|App development|Firebase|Machine Learning
 
 Helping rural India to connect to morden Banking System
 
 📊 GitHub Stats
-[Show Image](https://github-readme-stats.vercel.app/api?username=Prkh05&show_icons=true&theme=radical&hide_border=true)
-[Show Image](https://github-readme-stats.vercel.app/api/top-langs/?username=Prkh05&layout=compact&theme=radical&hide_border=true)
-[Show Image](https://github-readme-streak-stats.herokuapp.com/?user=Prkh05&theme=radical&hide_border=true)
+https://github-readme-stats.vercel.app/api?username=Prkh05&show_icons=true&theme=radical&hide_border=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=Prkh05&layout=compact&theme=radical&hide_border=true
+https://github-readme-streak-stats.herokuapp.com/?user=Prkh05&theme=radical&hide_border=true
 
 🏆 LeetCode Journey
   
