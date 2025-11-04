@@ -100,9 +100,8 @@ Helping rural India to connect to morden Banking System by simplifing credit sys
 
 🏆 LeetCode Journey
   
-  <p align="center">
-    <img src = "![LeetCode Stats](https://leetcard.jacoblin.cool/prakhar05?theme=catppuccinMocha&font=Oxygen%20Mono)" />
-  </p>
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/prakhar05?theme=catppuccinMocha&font=Oxygen%20Mono)
+
 
     
   
