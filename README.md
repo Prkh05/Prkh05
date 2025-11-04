@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🚀 About Me
+
+💡 Passionate about building full-stack applications with modern web technologies
+🧩 Grinding LeetCode in Java to sharpen my DSA skills
+🛡️ Vivid interest in Cybersecurity and secure coding practices
+🌱 Always learning and exploring new technologies
+🤝 Open to collaborations on full-stack, ML, and innovative tech projects
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/prakhar05?theme=catppuccinMocha&font=Oxygen%20Mono)
