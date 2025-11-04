@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 Hi, I'm Aranya Bahuguna
+🎓 B.Tech CSE (Core) student at VIT Bhopal (2026) | 💻 Aspiring Full-Stack Developer | 🔐 Cybersecurity Enthusiast
 
 <!--
 **Prkh05/Prkh05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
