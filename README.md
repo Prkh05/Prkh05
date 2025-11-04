@@ -24,29 +24,22 @@ Here are some ideas to get you started:
 🤝 Open to collaborations on full-stack, ML, and innovative tech projects
 🛠️ Tech Stack
 Frontend
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+
 Backend & Database
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+
 Programming Languages
-Show Image
-Show Image
-Show Image
-Show Image
+
 Tools & Platforms
-Show Image
-Show Image
+
 
 💼 Featured Projects
+
+🤖 AI Customer Support Bot — hybrid FAQ + LLM assistant built(Oct 2025 – Oct 2025)
+Tech Stack: MERN Stack
+
+AI-powered customer service chatbot using the MERN stack with intelligent FAQ matching and
+Gemini LLM integration
+
 🆘 SOS-Service (Sep 2024 – Feb 2025)
 Tech Stack: MERN | Supabase | ML | AES
 
@@ -55,28 +48,24 @@ Integrated Google Maps & GeoHashing for accurate location
 YOLOv8 for emergency detection & AES-encrypted data storage
 Role-based access control for secure operations
 
-📦 Inventory Management System (Jan 2025 – Feb 2025)
-Tech Stack: MERN Stack
 
-Full-stack inventory system with CRUD & real-time sync
-Multi-role authentication and secure access control
 
-🔐 AES Image Encryptor (Feb 2023 – May 2023)
-Tech Stack: HTML | CSS | JS | AES-256
+💸 AI-Powered Rural Banking App (Oct 2024 – Mar 2025)
+Tech Stack: React Native|App development|Firebase|Machine Learning
 
-Web tool for encrypting images securely with AES-256
-Clean UI for quick uploads, deployed on GitHub Pages
-
+Helping rural India to connect to morden Banking System
 
 📊 GitHub Stats
-Show Image
-Show Image
-Show Image
+[Show Image](https://github-readme-stats.vercel.app/api?username=Prkh05&show_icons=true&theme=radical&hide_border=true)
+[Show Image](https://github-readme-stats.vercel.app/api/top-langs/?username=Prkh05&layout=compact&theme=radical&hide_border=true)
+[Show Image](https://github-readme-streak-stats.herokuapp.com/?user=Prkh05&theme=radical&hide_border=true)
 
 🏆 LeetCode Journey
-![LeetCode Stats](https://leetcard.jacoblin.cool/prakhar05?theme=catppuccinMocha&font=Oxygen%20Mono)
+  
+  
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/prakhar05?theme=catppuccinMocha&font=Oxygen%20Mono)
 
-🔥 Grinding DSA problems daily in Java to level up my problem-solving skills!
+ 🔥 Grinding DSA problems daily in Java to level up my problem-solving skills!
 
 
 📫 Let's Connect!
@@ -89,4 +78,4 @@ Show Image
 Show Image
 </div>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/prakhar05?theme=catppuccinMocha&font=Oxygen%20Mono)
+
